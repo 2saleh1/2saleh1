@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2saleh1
 - 👀 I’m interested in Cyber Securtiy + Artificial intelligence 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python ,javascript , typescript , sql  , java 
 - 📫 How to reach me : saleh60361@gmail.com
 
 
