@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @2saleh1
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning Python ,javascript , typescript , sql  , java 
-- 📫 How to reach me : saleh60361@gmail.com
-
-
-<!---
-2saleh1/2saleh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @2saleh1  
+- 🚀 I'm passionate about building intelligent, cross-platform applications that solve real-world problems  
+- 👀 I'm especially interested in Artificial Intelligence, Neural Networks, Machine Learning, and full-stack development  
+- 🌱 Currently learning and working with Python, JavaScript, TypeScript, SQL, Java, and React Native (for mobile and web apps)  
+- 📫 Reach me at: saleh60361@gmail.com
