@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Saleh 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Saudi+Programmer+from+Al-Qassim+🇸🇦;AI+%26+Mobile+Development+Enthusiast;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Saudi+Programmer+from+Al-Qassim;AI+%26+Mobile+Development+Enthusiast;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
 
 </div>
 
