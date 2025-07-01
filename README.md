@@ -90,35 +90,6 @@
 
 ---
 
-### 🎮 Fun Interactive Elements
-
-<details>
-<summary>🎯 <b>Click to reveal my coding philosophy!</b></summary>
-<br>
-
-> *"Every line of code is an opportunity to solve a problem, create something beautiful, or make someone's life a little easier. I don't just write code – I craft solutions with purpose, passion, and a touch of creativity."*
-> 
-> **— Saleh** 🇸🇦
-
-</details>
-
-<details>
-<summary>⚽ <b>Football vs Coding: The Ultimate Comparison</b></summary>
-<br>
-
-| Football ⚽ | Coding 💻 |
-|-------------|-----------|
-| **Strategy & Tactics** | **Algorithm Design** |
-| **Team Coordination** | **Code Collaboration** |
-| **Practice Makes Perfect** | **Debug Until It Works** |
-| **Reading the Game** | **Reading the Code** |
-| **Last-Minute Goals** | **Last-Minute Bug Fixes** |
-
-*Both require passion, patience, and the ability to stay calm under pressure!* 😄
-
-</details>
-
-
 
 ---
 
