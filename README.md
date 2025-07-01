@@ -158,19 +158,7 @@ const saleh = {
 
 </details>
 
-<details>
-<summary>🎲 <b>Random Fun Facts About Me</b></summary>
-<br>
 
-- 🌴 I can tell you the exact season for the best dates in Al-Qassim
-- 🧠 I think in both Arabic and English (sometimes simultaneously!)
-- ☕ My code quality is directly proportional to my coffee intake
-- 🎮 I've hidden Easter eggs in every project I've ever built
-- ⚽ I can predict football match outcomes better than my code compilation results
-- 🤖 I name my variables in a way that tells a story
-- 🎨 I believe semicolons are the poetry punctuation of programming
-
-</details>
 
 ---
 
