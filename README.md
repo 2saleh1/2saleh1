@@ -78,20 +78,6 @@
 
 ---
 
-### 🎯 Current Focus
-
-```javascript
-const saleh = {
-    location: "Al-Qassim, Saudi Arabia 🇸🇦",
-    education: "Computer Science Student",
-    currentlyLearning: ["TensorFlow", "Deep Learning", "Neural Networks", "Advanced React Native"],
-    workingOn: "AI-powered mobile applications",
-    hobbies: ["Football ⚽", "Tech Innovation", "Problem Solving"],
-    favoriteQuote: "Code is poetry written in logic",
-    coffeeLevel: "☕☕☕☕☕ (Always Maximum!)"
-};
-```
-
 ---
 
 ### 🌟 Featured Project
