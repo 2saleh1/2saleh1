@@ -22,7 +22,7 @@
 - 🧠 **Passionate About**: AI, Neural Networks, Machine Learning & Full-Stack Development
 - ⚽ **Fun Fact**: I can debug code and analyze football tactics equally well!
 - 🌍 **Languages**: Arabic (Native) & English (Fluent)
-- 💭 **Philosophy**: "Code is poetry written in logic"
+
 
 ### 🛠️ Tech Arsenal
 
