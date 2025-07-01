@@ -69,28 +69,9 @@
 
 
 
----
 
-### 🌟 Featured Project
 
-<div align="center">
 
-#### 🎨 **Interactive Personal Website**
-*A bilingual showcase with hidden Easter eggs and smooth animations*
-
-[![Website](https://img.shields.io/badge/🌐_Live_Website-Visit_Now!-667EEA?style=for-the-badge&logo=safari&logoColor=white)](https://2saleh1.github.io/personal-website/)
-[![Repository](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2saleh1/personal-website)
-
-**Features:**
-- 🌍 **Bilingual Support** (Arabic RTL ↔ English LTR)
-- 🎮 **Interactive Easter Eggs** (Matrix rain, glitch effects, Konami code!)
-- 📱 **Fully Responsive** design
-- ⚡ **Smooth Animations** and parallax effects
-- 🎨 **Modern UI** with glassmorphism
-
-*Secret: Try pressing M, G, or ↑↑↓↓←→←→BA on the website! 🤫*
-
-</div>
 
 ---
 
