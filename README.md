@@ -43,8 +43,8 @@
 
 #### AI & Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/2saleh1)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/2saleh1)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/2saleh1)
+<!-- [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/2saleh1) -->
+<!-- [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/2saleh1) -->
 
 </div>
 
@@ -84,7 +84,7 @@
 const saleh = {
     location: "Al-Qassim, Saudi Arabia 🇸🇦",
     education: "Computer Science Student",
-    currentlyLearning: ["Deep Learning", "Neural Networks", "Advanced React Native"],
+    currentlyLearning: ["TensorFlow", "Deep Learning", "Neural Networks", "Advanced React Native"],
     workingOn: "AI-powered mobile applications",
     hobbies: ["Football ⚽", "Tech Innovation", "Problem Solving"],
     favoriteQuote: "Code is poetry written in logic",
