@@ -66,17 +66,8 @@
 
 ---
 
-### 🏆 Achievements & Certifications
 
-<div align="center">
 
-[![AI Fundamentals](https://img.shields.io/badge/🎓_AI_Fundamentals-SDAIA-00D4AA?style=for-the-badge)](https://github.com/2saleh1)
-[![AI Advanced Applications](https://img.shields.io/badge/🎓_AI_Advanced_Applications-SDAIA-00D4AA?style=for-the-badge)](https://github.com/2saleh1)
-[![Social Media Safety](https://img.shields.io/badge/🎓_Social_Media_Safety-University_of_Hail-1DA1F2?style=for-the-badge)](https://github.com/2saleh1)
-
-</div>
-
----
 
 ---
 
