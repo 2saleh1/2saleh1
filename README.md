@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌴 **From Al-Qassim** - Yes, the land of the sweetest dates!
+- 🌴 **From Al-Qassim**
 - 🎯 **Mission**: Building intelligent applications that solve real-world problems
 - 🧠 **Passionate About**: AI, Neural Networks, Machine Learning & Full-Stack Development
 - ⚽ **Fun Fact**: I can debug code and analyze football tactics equally well!
