@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Saudi+Programmer+from+Al-Qassim;AI+%26+Mobile+Development+Enthusiast;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
 </div>
 
-<h2 align="center">🚀 <a href="https://2saleh1.github.io/personal-website/">🌐My Website</a></h2>
+<h2 align="center"> <a href="https://2saleh1.github.io/personal-website/">🌐My Website</a></h2>
 <p align="center"><i>Psst... Try pressing M, G, or ↑↑↓↓←→←→BA on the website! 🤫</i></p>
 
 <div align="center" style="margin: 20px 0;">
