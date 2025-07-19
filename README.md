@@ -104,7 +104,7 @@
 [![Followers](https://img.shields.io/github/followers/2saleh1?style=for-the-badge&color=667EEA&labelColor=000000)](https://github.com/2saleh1?tab=followers)
 [![Stars](https://img.shields.io/github/stars/2saleh1?style=for-the-badge&color=F7931E&labelColor=000000)](https://github.com/2saleh1?tab=repositories)
 
-**Thanks for visiting! Don't forget to check out my website and try the Easter eggs! 🎮✨**
+
 
 </div>
 
