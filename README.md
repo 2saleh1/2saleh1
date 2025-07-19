@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="animation-play-state: running;">
 
 ### 🧑‍💻 About Me
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-### 💫 *"Building the future, one commit at a time"*
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2saleh1&color=667EEA&style=for-the-badge&label=Profile+Views)
 [![Followers](https://img.shields.io/github/followers/2saleh1?style=for-the-badge&color=667EEA&labelColor=000000)](https://github.com/2saleh1?tab=followers)
