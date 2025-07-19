@@ -6,12 +6,12 @@
 
 </div>
 
----
 
-## 🚀 **[🌐 Visit My Interactive Website](https://2saleh1.github.io/personal-website/)** 
+
+## 🚀 **[🌐Website](https://2saleh1.github.io/personal-website/)** 
 *Psst... Try pressing M, G, or ↑↑↓↓←→←→BA on the website! 🤫*
 
----
+
 
 
 
