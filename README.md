@@ -16,7 +16,7 @@
 
 
 
-<img align="center" alt="Coding" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ### 🧑‍💻 About Me
