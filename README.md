@@ -1,31 +1,23 @@
 <div align="center">
-
-# Hey there! 👋 I'm Saleh 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Saudi+Programmer+from+Al-Qassim;AI+%26+Mobile+Development+Enthusiast;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
-
+  <h1>Hey there! 👋 I'm Saleh</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Saudi+Programmer+from+Al-Qassim;AI+%26+Mobile+Development+Enthusiast;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
 </div>
 
+<h2 align="center">🚀 <a href="https://2saleh1.github.io/personal-website/">🌐Website</a></h2>
+<p align="center"><i>Psst... Try pressing M, G, or ↑↑↓↓←→←→BA on the website! 🤫</i></p>
 
+<div align="center" style="margin: 20px 0;">
+  <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-## 🚀 **[🌐Website](https://2saleh1.github.io/personal-website/)** 
-*Psst... Try pressing M, G, or ↑↑↓↓←→←→BA on the website! 🤫*
-
-
-
-
-
-
-<img align="center" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-### 🧑‍💻 About Me
-
-- 🌴 **From Al-Qassim**
-- 🎯 **Mission**: Building intelligent applications that solve real-world problems
-- 🧠 **Passionate About**: AI, Neural Networks, Machine Learning & Full-Stack Development
-- ⚽ **Fun Fact**: I can debug code and analyze football tactics equally well!
-- 🌍 **Languages**: Arabic (Native) & English (Fluent)
+<h3 align="center">🧑‍💻 About Me</h3>
+<p align="center">
+  - 🌴 <b>From Al-Qassim</b><br>
+  - 🎯 <b>Mission</b>: Building intelligent applications that solve real-world problems<br>
+  - 🧠 <b>Passionate About</b>: AI, Neural Networks, Machine Learning & Full-Stack Development<br>
+  - ⚽ <b>Fun Fact</b>: I can debug code and analyze football tactics equally well!<br>
+  - 🌍 <b>Languages</b>: Arabic (Native) & English (Fluent)
+</p>
 
 
 
