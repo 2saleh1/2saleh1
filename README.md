@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="animation-play-state: running;">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" onmouseover="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'" onmouseout="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?paused=true'">
 
 ### 🧑‍💻 About Me
 
