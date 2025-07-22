@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center"> <a href="https://2saleh1.github.io/personal-website/">🌐My Website</a></h2>
-<p align="center"><i>Psst... Try pressing M, G, or ↑↑↓↓←→←→BA on the website! 🤫</i></p>
+
 
 <div align="center" style="margin: 20px 0;">
   <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
