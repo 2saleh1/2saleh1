@@ -50,7 +50,7 @@
 
 </div>
 
-📊 GitHub Analytics
+  #### GitHub Analytics
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF" alt="GitHub Streak" />
@@ -58,7 +58,7 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&bg_color=0D1117&color=667EEA&line=F7931E&point=FFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-🤝 Let's Connect & Collaborate!
+  #### 🤝 Let's Connect & Collaborate!
 <div align="center">
   <img alt="Email" src="https://img.shields.io/badge/📧_Email-saleh60361@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
   <img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn-Let's_Network!-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
