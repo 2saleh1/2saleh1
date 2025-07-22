@@ -5,7 +5,6 @@
 
 <h2 align="center"> <a href="https://2saleh1.github.io/personal-website/">🌐My Website</a></h2>
 
-
 <div align="center" style="margin: 20px 0;">
   <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
@@ -19,37 +18,13 @@
   - 🌍 <b>Languages</b>: Arabic (Native) & English (Fluent)
 </p>
 
+---
 
-
-
-
-
-
-<div align="center">
-
-#### Languages & Frameworks
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/2saleh1)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/2saleh1)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/2saleh1)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/2saleh1)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/2saleh1)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/2saleh1)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/2saleh1)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/2saleh1)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/2saleh1)
-
-#### Databases & Tools
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/2saleh1)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://github.com/2saleh1)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/2saleh1)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/2saleh1)
-
-#### AI & Machine Learning
-[![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-232946?style=for-the-badge&logo=ai&logoColor=white)](https://github.com/2saleh1)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/2saleh1)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/2saleh1) 
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,cpp,php,react,nodejs,git,supabase,sql,anaconda,arduino,opencv,vscode,tensorflow,pandas" />
+  </a>
+</p>
 
 ---
 
@@ -67,15 +42,6 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🤝 Let's Connect & Collaborate!
@@ -89,24 +55,13 @@
 
 </div>
 
-
-
-
 ---
 
 <div align="center">
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=2saleh1&color=667EEA&style=for-the-badge&label=Profile+Views)
 [![Followers](https://img.shields.io/github/followers/2saleh1?style=for-the-badge&color=667EEA&labelColor=000000)](https://github.com/2saleh1?tab=followers)
 [![Stars](https://img.shields.io/github/stars/2saleh1?style=for-the-badge&color=F7931E&labelColor=000000)](https://github.com/2saleh1?tab=repositories)
-
-
-
 </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling"/>
-</div>
