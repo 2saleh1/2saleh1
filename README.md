@@ -66,6 +66,8 @@
   <img alt="Website" src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site!-667EEA?style=for-the-badge&amp;logo=safari&amp;logoColor=white">
 </div>
 
+---
+
 <div align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=2saleh1&amp;color=667EEA&amp;style=for-the-badge&amp;label=Profile+Views">
   <img alt="Followers" src="https://img.shields.io/github/followers/2saleh1?style=for-the-badge&amp;color=667EEA&amp;labelColor=000000">
