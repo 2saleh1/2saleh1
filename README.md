@@ -6,11 +6,7 @@
 <h2 align="center">
   <a href="https://2saleh1.github.io/personal-website/">🌐My Website</a>
 </h2>
-
-<div align="center" style="margin: 20px 0;">
-  <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
-
+---
 <h3 align="center">🧑‍💻 About Me</h3>
 <p align="center">
   - 🌴 <b>From Al-Qassim</b><br>
