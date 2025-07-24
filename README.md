@@ -1,7 +1,8 @@
-<div align="center"> 
-  <h1>Hey there! 👋 I'm Saleh</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&width=600&lines=Saudi+Programmer+from+Al-Qassim;Software+Engineer;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
+<div style="text-align: center; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
+  <h1 style="color: white;">Hey there! 👋 I'm Saleh</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=90CAF9&width=600&lines=Saudi+Programmer+from+Al-Qassim;Software+Engineer;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
 </div>
+
 
 <h2 align="center">
   <a href="https://2saleh1.github.io/portfolio/">🌐My portfolio</a>
