@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center"> 
   <h1>Hey there! 👋 I'm Saleh</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&width=600&lines=Saudi+Programmer+from+Al-Qassim;Software+Engineer;Building+Solutions+That+Matter;Coffee-Driven+Developer+☕" alt="Typing SVG" />
 </div>
