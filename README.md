@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">
-  <a href="https://2saleh1.github.io/personal-website/">🌐My Website</a>
+  <a href="https://2saleh1.github.io/portfolio/">🌐My portfolio</a>
 </h2>
 
 <h3 align="center">🧑‍💻 About Me</h3>
