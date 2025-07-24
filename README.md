@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="mailto:saleh60361@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📧_Email-saleh60361@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/2saleh1"><img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn-Let's_Network!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/2saleh1](https://www.linkedin.com/in/saleh-al-assaf-95470a349/)"><img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn-Let's_Network!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/2saleh1"><img alt="GitHub" src="https://img.shields.io/badge/💻_GitHub-Follow_Me!-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://2saleh1.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site!-667EEA?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
