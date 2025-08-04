@@ -82,23 +82,26 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Analytics Dashboard
 
-<!-- 3D Rotating GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF&custom_title=🚀%20Saleh's%20GitHub%20Universe" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF" width="49%" />
-</div>
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=F7931E&text_color=FFF&custom_title=🔥%20GitHub%20Performance" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=material-palenight&hide_border=true&background=1a1b27" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<!-- Animated Snake eating contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/2saleh1/2saleh1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<!-- 3D Isometric Contribution Calendar -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=Activity%20Graph&bg_color=0D1117&color=667EEA&line=F7931E&point=FFF&area=true&hide_border=true&height=300" width="100%" />
-</div>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling"/>
