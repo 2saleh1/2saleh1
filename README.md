@@ -84,15 +84,6 @@
 
 ---
 
-### 📈 GitHub Profile Summary
-
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=2saleh1&color=667EEA&style=for-the-badge&label=Profile+Views">
-  <img alt="Followers" src="https://img.shields.io/github/followers/2saleh1?style=for-the-badge&color=667EEA&labelColor=000000">
-  <img alt="Stars" src="https://img.shields.io/github/stars/2saleh1?style=for-the-badge&color=F7931E&labelColor=000000">
-</p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling"/>
