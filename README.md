@@ -77,12 +77,23 @@
 
 <div align="center">
   
+  <!-- Animated Snake eating contributions -->
+  <img src="https://raw.githubusercontent.com/2saleh1/2saleh1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
   <!-- 3D Contribution Calendar -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2saleh1&theme=github_dark&hide_border=true" width="100%" />
   
-  <!-- Holographic Stats -->
+  <!-- Code Dimension Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF&rank_icon=github&custom_title=🌟%20Code%20Dimension" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=donut&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF" width="48%" />
+  
+  <!-- Most Used Languages (Donut Chart) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=donut&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF&custom_title=🎯%20Language%20Universe" width="48%" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=🌌%20Coding%20Matrix&bg_color=0D1117&color=667EEA&line=F7931E&point=FFF&area=true&hide_border=true&height=300" width="100%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=cobalt&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF" width="100%" />
   
 </div>
 
