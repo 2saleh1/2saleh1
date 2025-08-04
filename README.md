@@ -7,7 +7,6 @@
   <a href="https://2saleh1.github.io/portfolio/">🌐 My Portfolio</a>
 </h2>
 
----
 
 ### 🧑‍💻 About Me
 
