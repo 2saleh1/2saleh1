@@ -61,16 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&bg_color=0D1117&color=667EEA&line=F7931E&point=FFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
@@ -82,19 +73,18 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Universe
 
 <div align="center">
   
-  <!-- Neon Glow Effect -->
-  <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=synthwave&hide_border=true&bg_color=0A0A0A&title_color=00D9FF&icon_color=FF0080&text_color=FFFFFF&ring_color=00D9FF&custom_title=⚡%20CYBER%20STATS%20⚡" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=neon-dark&hide_border=true&background=0A0A0A&stroke=00D9FF&ring=FF0080&fire=00D9FF" width="49%" />
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2saleh1&theme=github_dark&hide_border=true" width="100%" />
   
-  <!-- Glowing Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=🌌%20CODING%20MATRIX&bg_color=0A0A0A&color=00D9FF&line=FF0080&point=FFFFFF&area=true&hide_border=true&height=300" width="100%" />
+  <!-- Holographic Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF&rank_icon=github&custom_title=🌟%20Code%20Dimension" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=donut&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF" width="48%" />
   
 </div>
-
 
 ---
 
