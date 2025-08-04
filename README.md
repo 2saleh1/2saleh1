@@ -82,23 +82,18 @@
 </p>
 
 ---
-### 📊 GitHub Analytics Dashboard
+### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=F7931E&text_color=FFF&custom_title=🔥%20GitHub%20Performance" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=material-palenight&hide_border=true&background=1a1b27" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <!-- Neon Glow Effect -->
+  <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=synthwave&hide_border=true&bg_color=0A0A0A&title_color=00D9FF&icon_color=FF0080&text_color=FFFFFF&ring_color=00D9FF&custom_title=⚡%20CYBER%20STATS%20⚡" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=neon-dark&hide_border=true&background=0A0A0A&stroke=00D9FF&ring=FF0080&fire=00D9FF" width="49%" />
+  
+  <!-- Glowing Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=🌌%20CODING%20MATRIX&bg_color=0A0A0A&color=00D9FF&line=FF0080&point=FFFFFF&area=true&hide_border=true&height=300" width="100%" />
+  
+</div>
 
 
 ---
