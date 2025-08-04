@@ -77,26 +77,43 @@
 
 <div align="center">
   
-  <!-- Animated Snake eating contributions -->
-  <img src="https://raw.githubusercontent.com/2saleh1/2saleh1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Adaptive Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2saleh1/2saleh1/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/2saleh1/2saleh1/output/github-contribution-grid-snake.svg" />
+  </picture>
   
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2saleh1&theme=github_dark&hide_border=true" width="100%" />
+  <!-- Adaptive 3D Contribution Calendar -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2saleh1&theme=github_dark&hide_border=true">
+    <img alt="Contribution Calendar" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2saleh1&theme=default&hide_border=true" width="100%" />
+  </picture>
   
-  <!-- Code Dimension Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF&rank_icon=github&custom_title=🌟%20Code%20Dimension" width="48%" />
+  <!-- Adaptive Code Dimension Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF&rank_icon=github&custom_title=🌟%20Code%20Dimension">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=default&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=333&rank_icon=github&custom_title=🌟%20Code%20Dimension" width="48%" />
+  </picture>
   
-  <!-- Most Used Languages (Donut Chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=donut&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF&custom_title=🎯%20Language%20Universe" width="48%" />
+  <!-- Adaptive Language Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=donut&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF&custom_title=🎯%20Language%20Universe">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=donut&theme=default&hide_border=true&title_color=2f80ed&text_color=333&custom_title=🎯%20Language%20Universe" width="48%" />
+  </picture>
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=🌌%20Coding%20Matrix&bg_color=0D1117&color=667EEA&line=F7931E&point=FFF&area=true&hide_border=true&height=300" width="100%" />
+  <!-- Adaptive Activity Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=🌌%20Coding%20Matrix&bg_color=0D1117&color=667EEA&line=F7931E&point=FFF&area=true&hide_border=true&height=300">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=2saleh1&custom_title=🌌%20Coding%20Matrix&bg_color=FFFFFF&color=2f80ed&line=2f80ed&point=333&area=true&hide_border=true&height=300" width="100%" />
+  </picture>
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=cobalt&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF" width="100%" />
+  <!-- Adaptive Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=cobalt&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=default&hide_border=true&background=FFFFFF&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=333" width="100%" />
+  </picture>
   
 </div>
-
 ---
 
 <div align="center">
