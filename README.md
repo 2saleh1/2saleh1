@@ -95,11 +95,7 @@
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=compact&theme=default&hide_border=true&title_color=2f80ed&text_color=333&custom_title=🎯%20Language%20Universe" width="48%" />
   </picture>
   
-  <!-- Adaptive Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=cobalt&hide_border=true&background=0D1117&stroke=667EEA&ring=F7931E&fire=F7931E&currStreakLabel=FFF">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=2saleh1&theme=default&hide_border=true&background=FFFFFF&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=333" width="100%" />
-  </picture>
+
   
 </div>
 
