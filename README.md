@@ -11,10 +11,9 @@
 ### 🧑‍💻 About Me
 
 <p align="center">
-  🌴 <b>From:</b> Al-Qassim, Saudi Arabia<br>
-  🎯 <b>Mission:</b> Building intelligent applications that solve real-world problems<br>
-  🧠 <b>Passionate About:</b> AI, Neural Networks, Machine Learning & Full-Stack Development<br>
-  ⚽ <b>Fun Fact:</b> I can debug code and analyze football tactics equally well!<br>
+   <b>From:</b> Al-Qassim🌴, Saudi Arabia<br>
+  <b>Mission:</b> Building intelligent applications that solve real-world problems<br>
+  <b>Passionate About:</b> AI, Neural Networks, Machine Learning & Full-Stack Development<br>
   🌍 <b>Languages:</b> Arabic (Native) & English (Fluent)
 </p>
 
