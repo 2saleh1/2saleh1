@@ -82,12 +82,7 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/2saleh1/2saleh1/output/github-contribution-grid-snake.svg" />
   </picture>
   
-  <!-- Adaptive Code Dimension Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F7931E&text_color=FFF&rank_icon=github&custom_title=🌟%20Code%20Dimension">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=default&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=333&rank_icon=github&custom_title=🌟%20Code%20Dimension" width="48%" />
-  </picture>
-  
+
 
 
   
