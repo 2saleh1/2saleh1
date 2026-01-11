@@ -88,12 +88,7 @@
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=2saleh1&show_icons=true&theme=default&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=333&rank_icon=github&custom_title=🌟%20Code%20Dimension" width="48%" />
   </picture>
   
-  <!-- Adaptive Language Stats  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFF&custom_title=🎯%20Language%20Universe">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2saleh1&layout=compact&theme=default&hide_border=true&title_color=2f80ed&text_color=333&custom_title=🎯%20Language%20Universe" width="48%" />
-  </picture>
-  
+
 
   
 </div>
@@ -101,5 +96,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100"/>
 </div>
